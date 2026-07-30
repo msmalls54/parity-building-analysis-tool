@@ -8,3 +8,8 @@ node_modules/
 .DS_Store
 static/uploads/*
 static/results/*
+
+# Sensitive / local-only market data
+addresses.csv
+training/addresses.csv
+Existing_Market_TAM.xlsx
